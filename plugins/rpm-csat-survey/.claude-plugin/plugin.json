@@ -1,0 +1,16 @@
+{
+  "name": "rpm-csat-survey",
+  "version": "0.8.0",
+  "description": "Runs the RPM franchise customer satisfaction (CSAT/NPS) survey cycle on AppFolio: data prep, owner and resident communication, and results analysis from the RPM Intranet scorecards.",
+  "author": {
+    "name": "RPM franchise owners"
+  },
+  "keywords": [
+    "rpm",
+    "csat",
+    "appfolio",
+    "realm-x",
+    "survey",
+    "property management"
+  ]
+}
